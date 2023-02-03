@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/recipe-manager-demo/static/css/main.345ec4e7.css",
-    "main.js": "/recipe-manager-demo/static/js/main.a9a8aa81.js",
+    "main.js": "/recipe-manager-demo/static/js/main.1bc8d2a4.js",
     "static/js/787.598c79f7.chunk.js": "/recipe-manager-demo/static/js/787.598c79f7.chunk.js",
     "index.html": "/recipe-manager-demo/index.html",
     "main.345ec4e7.css.map": "/recipe-manager-demo/static/css/main.345ec4e7.css.map",
-    "main.a9a8aa81.js.map": "/recipe-manager-demo/static/js/main.a9a8aa81.js.map",
+    "main.1bc8d2a4.js.map": "/recipe-manager-demo/static/js/main.1bc8d2a4.js.map",
     "787.598c79f7.chunk.js.map": "/recipe-manager-demo/static/js/787.598c79f7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.345ec4e7.css",
-    "static/js/main.a9a8aa81.js"
+    "static/js/main.1bc8d2a4.js"
   ]
 }
